@@ -1,0 +1,10 @@
+---
+name: first github action
+ on [push]
+  job:
+   steps:
+   -task1:
+
+   -task2:
+
+   
